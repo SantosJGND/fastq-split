@@ -1,0 +1,6 @@
+dnaio==1.2.1
+fastq-filter==0.3.0
+isal==1.6.1
+pip==24.0
+xopen==2.0.2
+zlib-ng==0.4.3
